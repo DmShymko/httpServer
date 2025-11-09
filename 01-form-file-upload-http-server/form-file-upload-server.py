@@ -3,7 +3,7 @@ from socketserver import TCPServer
 import os
 
 HOST = "0.0.0.0"
-PORT = 8080
+PORT = 8000
 UPLOAD_DIR = 'uploaded_files'
 
 HTTP_STATUS_200_OK = 200
